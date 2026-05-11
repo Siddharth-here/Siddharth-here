@@ -1,4 +1,7 @@
-# Hi there, I'm Siddharth! 👋
+<img width="1500" height="500" alt="github banner" src="https://github.com/user-attachments/assets/0828f362-66b9-4e0e-a489-bcefc80bdd03" />
+
+
+# Hi there, I'm Siddhartha! 👋
 
 I'm a **Beginner Web Developer** with a passion for building full-stack applications and exploring the intersection of AI and real-world problems. Currently, I'm deep-diving into the **MERN Stack** and **Mobile Development**.
 
