@@ -1,5 +1,3 @@
-<img width="1500" height="500" alt="github banner" src="https://github.com/user-attachments/assets/0828f362-66b9-4e0e-a489-bcefc80bdd03" />
-
 
 # Hi there, I'm Siddhartha! 👋
 
