@@ -13,7 +13,7 @@ I'm a **Beginner Web Developer** with a passion for building full-stack applicat
 
 # Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,tailwindcss,typescript,nodejs,expressjs,react,nextjs,mongodb,mysql,postgresql,prisma,vite,docker,npm,postman,vercel,github,git&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,tailwindcss,typescript,nodejs,expressjs,react,nextjs,mongodb,mysql,postgresql,prisma,vite,docker,npm,bun,postman,vercel,github,git&theme=dark&perline=15)](https://skillicons.dev)
 
 ---
 # GitHub Stats:
