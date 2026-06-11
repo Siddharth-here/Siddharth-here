@@ -3,7 +3,7 @@
 
 I'm a **Beginner Web Developer** with a passion for building full-stack applications and exploring the intersection of AI and real-world problems. Currently, I'm deep-diving into the **MERN Stack** and **Mobile Development**.
 
-- 🔭 I’m currently working on a **Clinic Management System** and a **Fruit Maturity Detection SaaS**.
+- 🔭 I’m currently working on a **Gym Management System**.
 - 🌱 I’m currently learning **React Native & Expo** to build cross-platform mobile apps.
 - ✍️ I write technical blogs on [Hashnode](https://siddhartha-here.hashnode.dev/) about JavaScript and Linux.
 - 🎨 Fun fact: When I'm not coding, I'm usually working with **acrylic paints**.
