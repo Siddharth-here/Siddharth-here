@@ -6,7 +6,7 @@ I'm a **Beginner Web Developer** with a passion for building full-stack applicat
 - 🔭 I’m currently working on a **Gym Management System**.
 - 🌱 I’m currently learning **React Native & Expo** to build cross-platform mobile apps.
 - ✍️ I write technical blogs on [Hashnode](https://siddhartha-here.hashnode.dev/) about JavaScript and Linux.
-- 🎨 Fun fact: When I'm not coding, I'm usually working with **acrylic paints**.
+
 
 ---
 
