@@ -45,4 +45,4 @@ I'm a **Beginner Web Developer** with a passion for building full-stack applicat
  
 </div>
 
- 
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D5A43&height=120&section=footer" />
