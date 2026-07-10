@@ -1,12 +1,13 @@
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D5A43&height=220&section=header&text=Siddhartha%20Mohapatra&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2D5A43&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+Next.js+%2B+Node.js;Building+with+MongoDB%2C+MySQL+%26+PostgreSQL;Always+shipping%2C+always+learning" alt="Typing SVG" />
+</a>
+<br/>
 
-# Hi there, I'm Siddhartha! 
+
 
 I'm a **Beginner Web Developer** with a passion for building full-stack applications and exploring the intersection of AI and real-world problems. Currently, I'm deep-diving into the **MERN Stack** and **Mobile Development**.
-
-- 🔭 I’m currently working on a **Gym Management System**.
-- 🌱 I’m currently learning **React Native & Expo** to build cross-platform mobile apps.
-- ✍️ I write technical blogs on [Hashnode](https://siddhartha-here.hashnode.dev/) about JavaScript and Linux.
-
 
 ---
 
@@ -21,6 +22,12 @@ I'm a **Beginner Web Developer** with a passion for building full-stack applicat
 ![](https://streak-stats.demolab.com/?user=Siddharth-here&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Siddharth-here&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## Contribution Activity
+ 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharth-here&theme=react-dark&color=2D5A43&line=2D5A43&point=ffffff&hide_border=true" />
+</div>
+
 
 
 ---
@@ -33,5 +40,9 @@ I'm a **Beginner Web Developer** with a passion for building full-stack applicat
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://komarev.com/ghpvc/?username=Siddharth-here&color=2D5A43&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Siddharth-here?color=2D5A43&style=flat-square&label=Followers)
+ 
+</div>
 
+ 
