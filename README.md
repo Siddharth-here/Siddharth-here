@@ -35,7 +35,7 @@ I'm a **Beginner Web Developer** with a passion for building full-stack applicat
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhartha-mohapatra-124ba6226/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Siddhartha3998)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://siddhartha-here.hashnode.dev/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)]([https://siddhartha-here.hashnode.dev/])
 
 
 
