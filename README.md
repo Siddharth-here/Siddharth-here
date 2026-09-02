@@ -9,14 +9,14 @@
 
 I'm a **Beginner Web Developer** with a passion for building full-stack applications and exploring the intersection of AI and real-world problems. Currently, I'm deep-diving into the **MERN Stack** and **Mobile Development**.
 
----
+
 
 
 # Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,css,tailwindcss,typescript,nodejs,expressjs,react,nextjs,mongodb,mysql,postgresql,prisma,vite,docker,npm,bun,postman,vercel,github,git&theme=dark&perline=15)](https://skillicons.dev)
 
----
+
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Siddharth-here&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Siddharth-here&theme=shadow_blue&hide_border=false)<br/>
